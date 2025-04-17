@@ -54,7 +54,6 @@ The analysis utilizes publicly available Spotify data, including:
 ## Findings
 
 - **Key Features:** Identified attributes like average track popularity and genre diversity as significant predictors of playlist success.
-- **Model Performance:** Achieved an accuracy of X% using the Random Forest classifier.
 - **Trends:** Noted that playlists with a mix of popular and emerging tracks tend to attract more followers.
 
 ## Conclusions
